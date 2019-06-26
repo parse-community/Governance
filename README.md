@@ -1,13 +1,29 @@
 # Governance
-This document aims to set out the model by which the Parse Platform is governed & provide specific insight into how we make decisions, give permissions and responsibility and spend our Open Collective budget. We hope this aids the transparency within the Parse Community and both encourages & enables the people who depend on Parse Server & its SDKs to get involved to improve our offering for yourselves and everyone else in the community.
+
+This document aims to set out the model by which the Parse Platform is governed & provide specific insight into how we make decisions, give permissions and responsibility. We hope this aids the transparency within the Parse Community and both encourages & enables the people who depend on Parse Server & its SDKs to get involved to improve the offering for all members of the community.
 
 We have decided to loosely follow the [Meritocratic Governance Model](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel), we may deviate from this model as set out by this document and we encourage proposals to improve our methods of governance.
 
+### Contents
+- [Overview](#overview)
+- [Roles and Responsibilities](#roles-and-responsibilities)
+  - [Users](#users)
+  - [Contributors](#contributors)
+  - [Committers](#committers)
+  - [Project management committee (PMC)](#project-management-committee-pmc)
+  - [PMC Chair](#pmc-chair)
+- [Support](#support)
+- [Contribution Process](#contribution-process)
+- [Decision Making Process](#decision-making-process)
+  - [Lazy consensus](#lazy-consensus)
+  - [Voting](#voting)
+
 ## Overview
 
-This is a meritocratic, consensus-based community project. Anyone with an interest in the project can join the community, contribute to the project design and participate in the decision making process. This document describes how that participation takes place and how to set about earning merit within the project community.
+This is a meritocratic, consensus-based community project. Anyone with an interest in the project can join the community, contribute and participate in decision making. This document describes how to participate and earn merit within the community.
 
-## Roles And Responsibilities
+## Roles and Responsibilities
+
 ### Users
 
 Users are community members who have a need for the project. They are the most important members of the community and without them the project would have no purpose. Anyone can be a user; there are no special requirements.
