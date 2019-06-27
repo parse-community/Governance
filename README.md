@@ -45,7 +45,7 @@ Some users who continue to engage with the project may become more involved and 
 
 #### Becoming a Contributor:
 
-Contributors are community members who contribute in concrete ways to the project. Anyone can become a contributor, and contributions can take many forms, as detailed in a separate document. There is no expectation of commitment to the project, no specific skill requirements and no selection process.
+Contributors are community members who contribute in concrete ways to the project. Anyone can become a contributor, and contributions can take many forms, as detailed in a [separate document](CONTRIBUTING.md). There is no expectation of commitment to the project, no specific skill requirements and no selection process.
 
 #### Being a Contributor:
 
@@ -115,7 +115,7 @@ All participants in the community are encouraged to provide support for new user
 
 ## Contribution Process
 
-Anyone can contribute to the project, regardless of their skills, as there are many ways to contribute. For instance, a contributor might be active on the project issue tracker, or might supply patches. The various ways of contributing are described in more detail in a separate document.
+Anyone can contribute to the project, regardless of their skills, as there are many ways to contribute. For instance, a contributor might be active on the project issue tracker, or might supply patches. The various ways of contributing are described in more detail in a [separate document](CONTRIBUTING.md).
 
 ## Decision Making Process
 
@@ -143,3 +143,5 @@ For lazy consensus to be effective, it is necessary to allow at least 72 hours b
 ### Voting
 
 Not all decisions can be made using lazy consensus. Issues such as those affecting the strategic direction or legal standing of the project must gain explicit approval in the form of a vote. Every member of the community is encouraged to express their opinions in all discussion and all votes. However, only project committers and/or PMC members (as defined above) have binding votes for the purposes of decision making.
+
+A [separate document](VOTING.md) describes in more detail how voting is conducted for this project.
