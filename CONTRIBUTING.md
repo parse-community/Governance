@@ -8,7 +8,7 @@ The Parse Platform has many elements meaning that the range of contributions are
 
 Below is a small list of the many possible ways to contribute in our community...
 - Helping new users by answering questions on Stack Overflow ([parse-platform][stack-overflow-tag] tag) or our [community forum][community-forum]
-- Triarging bugs on one of the 40+ Parse Platform GitHub repos
+- Triaging bugs on one of the 40+ Parse Platform GitHub repository
 - Reporting and/or fixing bugs
 - Reporting security vulnerabilities, see our [security policy][security-policy]
 - Implementing new features
@@ -20,9 +20,9 @@ Below is a small list of the many possible ways to contribute in our community..
 ## What we ask of you
 
 We want to make contributing a stress and hassle free experience but due to this being a largely volunteer based community we ask that you follow these points...
-- Please respect the time & effort of our PMC members and those reviewing PRs and interecting with issues
+- Please respect the time & effort of our PMC members and those reviewing PRs and interacting with issues
 - We aim to start the review process on PRs within a few days but we ask that when making contributions you remain patient
-- Disagreements will come up but community members must remian civil and adhere to our [code of conduct][code-of-conduct]
+- Disagreements will come up but community members must remain civil and adhere to our [code of conduct][code-of-conduct]
 - If you aim to make a large contribution we suggest seeking a consensus that it will be accepted so that you don't waste your time
 
 [community-forum]: https://community.parseplatform.org

@@ -34,7 +34,7 @@ Users consist of anyone who has a need for the project. They are very important 
 
 We ask that users participate in the community as much as possible. User contributions enable the project team to ensure that they are satisfying the needs of those users. Common user contributions include (but are not limited to):
 
-- Evangelising about the project (e.g. a link on a website and word-of-mouth awareness raising)
+- Evangelizing about the project (e.g. a link on a website and word-of-mouth awareness raising)
 - Informing developers of strengths and weaknesses from a new user perspective
 - Providing moral support (a ‘thank you’ goes a long way)
 - Providing financial support (the software is open source, but its developers need to eat)
@@ -83,7 +83,7 @@ This does not mean that a committer is free to do what they want. In fact, commi
 
 Seeking approval after making a contribution is known as a commit-then-review process. It is more efficient to allow trusted people to make direct contributions, as the majority of those contributions will be accepted by the project.
 
-It is important to recognise that commitership is a privilege, not a right. That privilege must be earned and once earned it can be removed by the PMC (see next section) in extreme circumstances.
+It is important to recognize that committership is a privilege, not a right. That privilege must be earned and once earned it can be removed by the PMC (see next section) in extreme circumstances.
 
 A committer who shows an above-average level of contribution to the project, particularly with respect to its strategic direction and long-term health, may be nominated to become a member of the PMC. This role is described below.
 
@@ -111,7 +111,7 @@ The PMC Chair has no additional authority over other members of the PMC: the rol
 
 ## Support
 
-All participants in the community are encouraged to provide support for new users to encourage growth in the community. Those seeking support should recognise that all support activity within the project is voluntary and is therefore provided as and when time allows. A user requiring guaranteed response times or results should therefore seek to purchase a support contract from a community member.
+All participants in the community are encouraged to provide support for new users to encourage growth in the community. Those seeking support should recognize that all support activity within the project is voluntary and is therefore provided as and when time allows. A user requiring guaranteed response times or results should therefore seek to purchase a support contract from a community member.
 
 ## Contribution Process
 
@@ -132,9 +132,9 @@ Decision making typically involves the following steps:
 - Vote (if consensus is not reached through discussion)
 - Decision
 
-Any community member can make a proposal for consideration by the community. In order to initiate a discussion about a new idea, submit a pull request or open a topic on discourse for proposals not related to a specific repo. This will prompt a review and, if necessary, a discussion of the idea.
+Any community member can make a proposal for consideration by the community. In order to initiate a discussion about a new idea, submit a pull request or open a topic on discourse for proposals not related to a specific repository. This will prompt a review and, if necessary, a discussion of the idea.
 
-In general, as long as nobody explicitly opposes a proposal or patch, it is recognised as having the support of the community. This is called lazy consensus - that is, those who have not stated their opinion explicitly have implicitly agreed to the implementation of the proposal.
+In general, as long as nobody explicitly opposes a proposal or patch, it is recognized as having the support of the community. This is called lazy consensus - that is, those who have not stated their opinion explicitly have implicitly agreed to the implementation of the proposal.
 
 Lazy consensus is a very important concept within the project. It is this process that allows a large group of people to efficiently reach consensus, as someone with no objections to a proposal need not spend time stating their position, and others need not spend time reading such mails.
 
