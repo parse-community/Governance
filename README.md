@@ -20,26 +20,34 @@ We have decided to loosely follow the [Meritocratic Governance Model](http://oss
 
 ## Overview
 
-This is a meritocratic, consensus-based community project. Anyone with an interest in the project can join the community, contribute and participate in decision making. This document describes how to participate and earn merit within the community.
+This is a meritocratic, consensus-based community project. Anyone with an interest in welcome to contribute and participate in decision making. This document describes how to participate and earn merit within the community.
 
 ## Roles and Responsibilities
 
 ### Users
 
-Users are community members who have a need for the project. They are the most important members of the community and without them the project would have no purpose. Anyone can be a user; there are no special requirements.
+#### Becoming a User:
 
-The project asks its users to participate in the project and community as much as possible. User contributions enable the project team to ensure that they are satisfying the needs of those users. Common user contributions include (but are not limited to):
+Users consist of anyone who has a need for the project. They are very important members as without them the project wouldn't have a purpose.
+
+#### Being a User:
+
+We ask that users participate in the community as much as possible. User contributions enable the project team to ensure that they are satisfying the needs of those users. Common user contributions include (but are not limited to):
 
 - Evangelising about the project (e.g. a link on a website and word-of-mouth awareness raising)
 - Informing developers of strengths and weaknesses from a new user perspective
 - Providing moral support (a ‘thank you’ goes a long way)
 - Providing financial support (the software is open source, but its developers need to eat)
 
-Users who continue to engage with the project and its community will often become more and more involved. Such users may find themselves becoming contributors, as described in the next section.
+Some users who continue to engage with the project may become more involved and find themselves becoming contributors, as described in the next section.
 
 ### Contributors
 
+#### Becoming a Contributor:
+
 Contributors are community members who contribute in concrete ways to the project. Anyone can become a contributor, and contributions can take many forms, as detailed in a separate document. There is no expectation of commitment to the project, no specific skill requirements and no selection process.
+
+#### Being a Contributor:
 
 In addition to their actions as users, contributors may also find themselves doing one or more of the following:
 
@@ -59,11 +67,7 @@ As contributors gain experience and familiarity with the project, their profile 
 
 ### Committers
 
-Committers are community members who have shown that they are committed to the continued development of the project through ongoing engagement with the community. Committership allows contributors to more easily carry on with their project related activities by giving them direct access to the project’s resources. That is, they can make changes directly to project outputs, without having to submit changes via patches.
-
-This does not mean that a committer is free to do what they want. In fact, committers have no more authority over the project than contributors. While committership indicates a valued member of the community who has demonstrated a healthy respect for the project’s aims and objectives, their work continues to be reviewed by the community before acceptance in an official release. The key difference between a committer and a contributor is when this approval is sought from the community. A committer seeks approval after the contribution is made, rather than before.
-
-Seeking approval after making a contribution is known as a commit-then-review process. It is more efficient to allow trusted people to make direct contributions, as the majority of those contributions will be accepted by the project.
+#### Becoming a Committer:
 
 Anyone can become a committer; the only requirement is to have shown a willingness and ability to participate in the project as a team player. Typically, a potential committer will need to show that they have an understanding of the project and have provided valuable contributions over time.
 
@@ -71,21 +75,37 @@ New committers can be nominated by any existing committer. Once they have been n
 
 Nominees may decline their appointment as a committer. However, this is unusual, as then intention behind the role of committer is to allow people to contribute to the project more easily, not to tie them in to the project in any formal way.
 
+#### Being a Committer:
+
+Committers are community members who have shown that they are committed to the continued development of the project through ongoing engagement with the community. Committership allows contributors to more easily carry on with their project related activities by giving them direct access to the project’s resources. That is, they can make changes directly to project outputs, without having to submit changes via patches.
+
+This does not mean that a committer is free to do what they want. In fact, committers have no more authority over the project than contributors. While committership indicates a valued member of the community who has demonstrated a healthy respect for the project’s aims and objectives, their work continues to be reviewed by the community before acceptance in an official release. The key difference between a committer and a contributor is when this approval is sought from the community. A committer seeks approval after the contribution is made, rather than before.
+
+Seeking approval after making a contribution is known as a commit-then-review process. It is more efficient to allow trusted people to make direct contributions, as the majority of those contributions will be accepted by the project.
+
 It is important to recognise that commitership is a privilege, not a right. That privilege must be earned and once earned it can be removed by the PMC (see next section) in extreme circumstances.
 
 A committer who shows an above-average level of contribution to the project, particularly with respect to its strategic direction and long-term health, may be nominated to become a member of the PMC. This role is described below.
 
 ### Project management committee (PMC)
 
+#### Becoming a PMC Member:
+
+Membership of the PMC is by invitation from the existing PMC members. A nomination will result in discussion and then a vote by the existing PMC members. PMC membership votes are subject to consensus approval of the current PMC members.
+
+#### Being a PMC Member:
+
 The PMC has additional responsibilities over and above those of a committer, to ensure the project runs smoothly. PMC members are expected to review code contributions, participate in strategic planning, approve changes to the governance model and manage the copyrights within the project outputs.
 
 Members of the PMC do not have significant authority over other members of the community, although it is the PMC that votes on new committers. It also makes decisions when community consensus cannot be reached. In addition, the PMC has access to the project’s private channels. This list is used for sensitive issues, such as votes for new committers and legal matters that cannot be discussed in public. It is never used for project management or planning.
 
-Membership of the PMC is by invitation from the existing PMC members. A nomination will result in discussion and then a vote by the existing PMC members. PMC membership votes are subject to consensus approval of the current PMC members.
-
 ### PMC Chair
 
+#### Becoming the PMC Chair:
+
 The PMC Chair is a single individual, voted for by the PMC members. Once someone has been appointed Chair, they remain in that role until they choose to retire, or the PMC casts a two-thirds majority vote to remove them.
+
+#### Being the PMC Chair:
 
 The PMC Chair has no additional authority over other members of the PMC: the role is one of coordinator and facilitator. The Chair is also expected to ensure that all governance processes are adhered to, and has the casting vote when the project fails to reach consensus.
 
