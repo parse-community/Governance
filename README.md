@@ -77,15 +77,15 @@ Nominees may decline their appointment as a committer. However, this is unusual,
 
 #### Being a Committer:
 
-Committers are community members who have shown that they are committed to the continued development of the project through ongoing engagement with the community. Committership allows contributors to more easily carry on with their project related activities by giving them direct access to the project’s resources. That is, they can make changes directly to project outputs, without having to submit changes via patches.
+Committership allows contributors to more easily carry on with their project related activities by giving them direct access to the project’s resources.
 
-This does not mean that a committer is free to do what they want. In fact, committers have no more authority over the project than contributors. While committership indicates a valued member of the community who has demonstrated a healthy respect for the project’s aims and objectives, their work continues to be reviewed by the community before acceptance in an official release. The key difference between a committer and a contributor is when this approval is sought from the community. A committer seeks approval after the contribution is made, rather than before.
+This does not mean that a committer is free to do what they want. In fact, committers have no more authority over the project than contributors. In almost all cases work should still be approved by other committers before being merged, to ensure the quality of the changes (we all make mistakes 😉).
 
-Seeking approval after making a contribution is known as a commit-then-review process. It is more efficient to allow trusted people to make direct contributions, as the majority of those contributions will be accepted by the project.
+The key differences between being a contributor and a committer is that committers have the ability to approve and merge pull requests.
 
 It is important to recognize that committership is a privilege, not a right. That privilege must be earned and once earned it can be removed by the PMC (see next section) in extreme circumstances.
 
-A committer who shows an above-average level of contribution to the project, particularly with respect to its strategic direction and long-term health, may be nominated to become a member of the PMC. This role is described below.
+A committer who shows an above-average level of contribution to the project, particularly with respect to its strategic direction and long-term health, may be nominated to become a member of the PMC, as described below.
 
 ### Project management committee (PMC)
 
