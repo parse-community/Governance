@@ -1,8 +1,8 @@
 # Governance
 
-This document aims to set out the model by which the Parse Platform is governed & provide specific insight into how we make decisions, give permissions and responsibility. We hope this aids the transparency within the Parse Community and both encourages & enables the people who depend on Parse Server & its SDKs to get involved to improve the offering for all members of the community.
+This document aims to set out the model by which the Parse Platform is governed and to provide specific insight into how we make decisions, give permissions and responsibility. We hope this aids transparency within the Parse Community and encourages the people who depend on Parse Server & its SDKs to get involved and improve the offering for all members of the community.
 
-We have decided to loosely follow the [Meritocratic Governance Model](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel), we may deviate from this model as set out by this document and we encourage proposals to improve our methods of governance.
+We loosely follow the [Meritocratic Governance Model](http://oss-watch.ac.uk/resources/meritocraticgovernancemodel), we may deviate from this model as set out by this document and we encourage proposals to improve our methods of governance.
 
 ### Contents
 - [Overview](#overview)
@@ -111,11 +111,11 @@ The PMC Chair has no additional authority over other members of the PMC: the rol
 
 ## Support
 
-All participants in the community are encouraged to provide support for new users to encourage growth in the community. Those seeking support should recognize that all support activity within the project is voluntary and is therefore provided as and when time allows. A user requiring guaranteed response times or results should therefore seek to purchase a support contract from a community member.
+All participants in the community are encouraged to provide support for new users to encourage growth in the community. Those seeking support should recognize that all support activity within the project is voluntary and is therefore provided as and when time allows. A user requiring guaranteed response times or results should therefore seek to purchase support from a qualified source.
 
 ## Contribution Process
 
-Anyone can contribute to the project, regardless of their skills, as there are many ways to contribute. For instance, a contributor might be active on the project issue tracker, or might supply patches. The various ways of contributing are described in more detail in a [separate document](CONTRIBUTING.md).
+Anyone can contribute to the project, regardless of skill, as there are many ways to contribute. For instance, a contributor might be active on the project issue tracker, or might supply patches. The various ways of contributing are described in more detail in a [separate document](CONTRIBUTING.md).
 
 ## Decision Making Process
 
