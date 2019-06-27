@@ -20,7 +20,7 @@ We loosely follow the [Meritocratic Governance Model](http://oss-watch.ac.uk/res
 
 ## Overview
 
-This is a meritocratic, consensus-based community project. Anyone with an interest in welcome to contribute and participate in decision making. This document describes how to participate and earn merit within the community.
+This is a meritocratic, consensus-based community project. Anyone with an interest is welcome to contribute and participate in decision making. This document describes how to participate and earn merit within the community.
 
 ## Roles and Responsibilities
 
