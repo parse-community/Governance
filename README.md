@@ -73,7 +73,7 @@ Anyone can become a committer; the only requirement is to have shown a willingne
 
 New committers can be nominated by any existing committer. Once they have been nominated, there will be a vote by the project management committee (PMC; see below). Committer voting is one of the few activities that takes place privately; to allow PMC members to freely express their opinions about a nominee without causing embarrassment. Once the vote has been held, the aggregated voting results are published. The nominee is entitled to request an explanation of any ‘no’ votes against them, regardless of the outcome of the vote. This explanation will be provided by the PMC Chair (see below) and will be anonymous and constructive in nature.
 
-Nominees may decline their appointment as a committer. However, this is unusual, as then intention behind the role of committer is to allow people to contribute to the project more easily, not to tie them in to the project in any formal way.
+Nominees may decline their appointment as a committer. However, this is unusual, as the intention behind the role of committer is to allow people to contribute to the project more easily, not to tie them into the project in any formal way.
 
 #### Being a Committer:
 
@@ -136,7 +136,7 @@ Any community member can make a proposal for consideration by the community. In 
 
 In general, as long as nobody explicitly opposes a proposal or patch, it is recognized as having the support of the community. This is called lazy consensus - that is, those who have not stated their opinion explicitly have implicitly agreed to the implementation of the proposal.
 
-Lazy consensus is a very important concept within the project. It is this process that allows a large group of people to efficiently reach consensus, as someone with no objections to a proposal need not spend time stating their position, and others need not spend time reading such mails.
+Lazy consensus is a very important concept within the project. It is this process that allows a large group of people to efficiently reach consensus, as someone with no objections to a proposal need not spend time stating their position.
 
 For lazy consensus to be effective, it is necessary to allow at least 72 hours before assuming that there are no objections to the proposal. This requirement ensures that everyone is given enough time to read, digest and respond to the proposal. This time period is chosen so as to be as inclusive as possible of all participants, regardless of their location and time commitments.
 
