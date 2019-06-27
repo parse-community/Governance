@@ -7,7 +7,7 @@ We want to encourage any and all members of the community to contribute to the P
 The Parse Platform has many elements meaning that the range of contributions are varied in type, scope, time and complexity. Please do not feel that you must have a great level of skill or be making code level contributions to be valued, there are loads of things that need doing and we appreciate anyone who is willing to get involved.
 
 Below is a small list of the many possible ways to contribute in our community...
-- Helping new users by answering questions on Stack Overflow ([parse-platform][stack-overflow-tag] tag) or in our [community forum][community-forum]
+- Helping new users by answering questions on Stack Overflow ([parse-platform][stack-overflow-tag] tag) or on our [community forum][community-forum]
 - Triaging bugs on one of the 40+ Parse Platform GitHub repository
 - Reporting and/or fixing bugs
 - Reporting security vulnerabilities, see our [security policy][security-policy]
