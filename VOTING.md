@@ -28,13 +28,13 @@ When a vote receives a `-1`, it is the responsibility of the community as a whol
 
 Different actions require different types of approval, ranging from lazy consensus to a majority decision by the PMC. These are summarised in the table below. The section after the table describes which type of approval should be used in common situations.
 
-| Type                | Description                                                  |	Duration  |
-|:--------------------|:-------------------------------------------------------------|:----------:|
-| Lazy consensus      | An action with lazy consensus is implicitly allowed, unless a binding -1 vote is received. Depending on the type of action, a vote will then be called. Note that even though a binding -1 is required to prevent the action, all community members are encouraged to cast a -1 vote with supporting argument. Committers are expected to evaluate the argument and, if necessary, support it with a binding -1. |	N/A
-| Lazy majority       |	A lazy majority vote requires more binding +1 votes than binding -1 votes.	| 72 hours
-| Consensus approval  |	Consensus approval requires three binding +1 votes and no binding -1 votes. |	72 hours
-| Unanimous consensus |	All of the binding votes that are cast are to be +1 and there can be no binding vetoes (-1). |	120 hours
-| 2/3 majority        |	Some strategic actions require a 2/3 majority of PMC members; in addition, 2/3 of the binding votes cast must be +1. Such actions typically affect the foundation of the project (e.g. adopting a new codebase to replace an existing product). |	120 hours
+| Type                | Description                                                                                                                                                                                                                                                                                                                                                                                                      | Duration  |
+|:--------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------:|
+| Lazy consensus      | An action with lazy consensus is implicitly allowed, unless a binding -1 vote is received. Depending on the type of action, a vote will then be called. Note that even though a binding -1 is required to prevent the action, all community members are encouraged to cast a -1 vote with supporting argument. Committers are expected to evaluate the argument and, if necessary, support it with a binding -1. | N/A       |
+| Lazy majority       |	A lazy majority vote requires more binding +1 votes than binding -1 votes.	                                                                                                                                                                                                                                                                                                                                     | 72 hours  |
+| Consensus approval  |	Consensus approval requires three binding +1 votes and no binding -1 votes.                                                                                                                                                                                                                                                                                                                                      | 72 hours  |
+| Unanimous consensus |	All of the binding votes that are cast are to be +1 and there can be no binding vetoes (-1).                                                                                                                                                                                                                                                                                                                     | 120 hours |
+| 2/3 majority        |	Some strategic actions require a 2/3 majority of PMC members; in addition, 2/3 of the binding votes cast must be +1. Such actions typically affect the foundation of the project (e.g. adopting a new codebase to replace an existing product).                                                                                                                                                                  | 120 hours |
 
 ## When is a Vote Required?
 
@@ -42,11 +42,11 @@ Every effort is made to allow the majority of decisions to be taken through lazy
 
 The table below describes some of the actions that will require a vote. It also identifies which type of vote should be called.
 
-| Action             | Description                                   | Approval type |
-|--------------------|-----------------------------------------------|---------------|
-| Release plan       |	Defines the timetable and actions for a release. A release plan cannot be vetoed (hence lazy majority). |	Lazy majority |
-| Product release    |	When a release of one of the project’s products is ready, a vote is required to accept the release as an official release of the project. A release cannot be vetoed (hence lazy majority). |	Lazy majority |
-| New committer	     | A new committer has been proposed. | Consensus approval of the PMC |
-| New PMC member     |	A new PMC member has been proposed.	| Consensus approval of the community |
-| Committer removal  |	When removal of commit privileges is sought. | Unanimous consensus of the PMC |
-| PMC member removal |	When removal of PMC membership is sought. |	Unanimous consensus of the community |
+| Action             | Description                                                                                    | Approval type                        |
+|--------------------|------------------------------------------------------------------------------------------------|--------------------------------------|
+| Release plan       | Defines the timetable and actions for a release. A release plan cannot be vetoed.              | Lazy majority                        |
+| Product release    | When a release is ready, a vote is required to accept the release. A release cannot be vetoed. | Lazy majority                        |
+| New committer	     | A new committer has been proposed.                                                             | Consensus approval of the PMC        |
+| New PMC member     | A new PMC member has been proposed.                                           	                | Consensus approval of the community  |
+| Committer removal  | When removal of commit privileges is sought.                                                   | Unanimous consensus of the PMC       |
+| PMC member removal | When removal of PMC membership is sought.                                                      | Unanimous consensus of the community |
