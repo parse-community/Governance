@@ -1,32 +1,23 @@
 # Voting
 
-If a formal vote on a proposal is called, all participants on the project contributors’ list may express an opinion and vote. They do this by selecting on of the options below in the relevant poll:
+Every member of the community, from interested user to the most active developer, has a vote. The project encourages all members to express their opinions in all discussion and all votes. However, only the PMC members have binding votes for the purposes of decision making. They do this by selecting on of the options below in the relevant poll:
 
 - `+1` ‘yes’, ‘agree’: also willing to help bring about the proposed action
 - `+0` ‘yes’, ‘agree’: not willing or able to help bring about the proposed action
 - `-0` ‘no’, ‘disagree’: but will not oppose the action’s going forward
 - `-1` ‘no’, ‘disagree’: opposes the action’s going forward and must propose an alternative action to address the issue (or a justification for not addressing the issue)
 
-To abstain from the vote, participants simply do not respond to the request. However, it can be more helpful to cast a `+0` or `-0` than to abstain, since this allows the team to gauge the general feeling of the community if the proposal should be controversial.
+To abstain from the vote, participants simply do not respond. However, it can be more helpful to cast a `+0` or `-0` than to abstain, since this allows the team to gauge the general feeling of the community if the proposal should be controversial.
 
-Every member of the community, from interested user to the most active developer, has a vote. The project encourages all members to express their opinions in all discussion and all votes. However, only the PMC members have binding votes for the purposes of decision making.
-
-It is therefore their responsibility to ensure that the opinions of all community members are considered. While not all members may have a binding vote, a well-justified `-1` from a non-committer must be considered by the community, and if appropriate, supported by a binding `-1`.
+It is the responsibility of the PMC members to ensure that the opinions of all community members are considered. While not all members may have a binding vote, a well-justified `-1` from a non-committer must be considered by the community, and if appropriate, supported by a binding `-1`.
 
 A `-1` can also indicate a veto, depending on the type of vote and who is using it. Someone without a binding vote cannot veto a proposal, so in their case a `-1` would simply indicate an objection.
 
-When a vote receives a `-1`, it is the responsibility of the community as a whole to address the objection. Such discussion will continue until the objection is either rescinded, overruled (in the case of a non-binding veto) or the proposal itself is altered in order to achieve consensus (possibly by withdrawing it altogether). In the rare circumstance that consensus cannot be achieved, the PMC will decide the forward course of action.
-
-### In summary:
-
-- Those who don’t agree with the proposal and think they have a better idea should vote `-1` and defend their counter-proposal.
-- Those who don’t agree but don’t have a better idea should vote `-0`.
-- Those who agree but will not actively assist in implementing the proposal should vote `+0`.
-- Those who agree and will actively assist in implementing the proposal should vote `+1`.
+When a vote receives a `-1`, the community must address the objection. Such discussion will continue until the objection is either rescinded, overruled (in the case of a non-binding veto) or the proposal itself is altered in order to achieve consensus (possibly by withdrawing it altogether). In the rare circumstance that consensus cannot be achieved, the PMC will decide the forward course of action.
 
 ## Types Of Approval
 
-Different actions require different types of approval, ranging from lazy consensus to a majority decision by the PMC. These are summarised in the table below. The section after the table describes which type of approval should be used in common situations.
+Different actions require different types of approval, these are summarised in the table below.
 
 | Type                | Description                                                                                                                                                                                                                                                                                                                                                                                                      | Duration  |
 |:--------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------:|
@@ -40,7 +31,7 @@ Different actions require different types of approval, ranging from lazy consens
 
 Every effort is made to allow the majority of decisions to be taken through lazy consensus. That is, simply stating one’s intentions is assumed to be enough to proceed, unless an objection is raised. However, some activities require a more formal approval process in order to ensure fully transparent decision making.
 
-The table below describes some of the actions that will require a vote. It also identifies which type of vote should be called.
+The table below describes some of the actions that will require a vote and which type should be used.
 
 | Action             | Description                                                                                    | Approval type                        |
 |--------------------|------------------------------------------------------------------------------------------------|--------------------------------------|
