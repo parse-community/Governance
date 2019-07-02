@@ -1,5 +1,7 @@
 # Voting
 
+Based on [Voting In Meritocratic Governance Projects](http://oss-watch.ac.uk/resources/meritocraticgovernancevoting).
+
 Every member of the community, from interested user to the most active developer, has a vote. The project encourages all members to express their opinions in all discussion and all votes. However, only the PMC members have binding votes for the purposes of decision making. They do this by selecting on of the options below in the relevant poll:
 
 - `+1` ‘yes’, ‘agree’: also willing to help bring about the proposed action
