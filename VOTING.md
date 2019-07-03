@@ -2,7 +2,7 @@
 
 Based on [Voting In Meritocratic Governance Projects](http://oss-watch.ac.uk/resources/meritocraticgovernancevoting).
 
-Every member of the community, from interested user to the most active developer, has a vote. The project encourages all members to express their opinions in all discussion and all votes. However, only the PMC members have binding votes for the purposes of decision making. They do this by selecting on of the options below in the relevant poll:
+Every member of the community, from an interested user to the most active developer, has a vote. The project encourages all members to express their opinions in all discussions and all votes. However, only the PMC members have binding votes for the purposes of decision making. They do this by selecting one of the options below in the relevant poll:
 
 - `+1` ‘yes’, ‘agree’: also willing to help bring about the proposed action
 - `+0` ‘yes’, ‘agree’: not willing or able to help bring about the proposed action
@@ -19,7 +19,7 @@ When a vote receives a `-1`, the community must address the objection. Such disc
 
 ## Types Of Approval
 
-Different actions require different types of approval, these are summarised in the table below.
+Different actions require different types of approval. These are summarized in the table below.
 
 | Type                | Description                                                                                                                                                                                                                                                                                                                                                                                                      | Duration  |
 |:--------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------:|
