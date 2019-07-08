@@ -20,7 +20,7 @@ Below is a small list of the many possible ways to contribute in our community..
 ## What we ask of you
 
 We want to make contributing a stress and hassle free experience but due to this being a largely volunteer based community we ask that you follow these points...
-- Please respect the time & effort of our PMC members and those reviewing PRs and interacting with issues
+- Please respect the time & effort of our Project Management Committee members, those reviewing PRs and interacting with issues
 - We aim to start the review process on PRs within a few days but we ask that when making contributions you remain patient
 - Disagreements will come up but community members must remain civil and adhere to our [code of conduct][code-of-conduct]
 - If you aim to make a large contribution we suggest seeking a consensus that it will be accepted so that you don't waste your time
