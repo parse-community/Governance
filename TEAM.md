@@ -14,11 +14,11 @@ In no particular order 😉
 | Access: | Most repos | All repos | All repos | Most repos | Parse Server & Dashboard | iOS SDK |
 | Focus:  | Docs, Blog, Website, Governance, iOS SDK | Parse Server | Parse Server, JS SDK, PHP SDK | Parse Server, JS SDK | Parse Server, Dashboard | iOS SDK |
 
-|         | ![John Carlson](https://avatars1.githubusercontent.com/u/1459320?s=180&v=4) | ![Roger Hu](https://avatars1.githubusercontent.com/u/326857?s=180&v=4) | ![Tobias](https://avatars3.githubusercontent.com/u/5549565?s=180&v=4) | ![Omair Vaiyani](https://avatars2.githubusercontent.com/u/5912209?s=180&v=4) |
-|---------|:---:|:---:|:---:|:---:|
-| Name:   | [__John Carlson__](https://github.com/Jawnnypoo) | [__Roger Hu__](https://github.com/rogerhu) | [__Tobias__](https://github.com/TobiasPott) | [__Omair Vaiyani__](https://github.com/omairvaiyani)
-| Access: | Android SDK | Android SDK | dotNET SDK | Parse Server |
-| Focus:  | Android SDK | Android SDK | dotNET SDK | Parse Server |
+|         | ![John Carlson](https://avatars1.githubusercontent.com/u/1459320?s=180&v=4) | ![Roger Hu](https://avatars1.githubusercontent.com/u/326857?s=180&v=4) | ![Tobias](https://avatars3.githubusercontent.com/u/5549565?s=180&v=4) | ![Omair Vaiyani](https://avatars2.githubusercontent.com/u/5912209?s=180&v=4) | ![Antoine Cormouls](https://avatars3.githubusercontent.com/u/27959372?s=180&v=4) |
+|---------|:---:|:---:|:---:|:---:|:---:|
+| Name:   | [__John Carlson__](https://github.com/Jawnnypoo) | [__Roger Hu__](https://github.com/rogerhu) | [__Tobias__](https://github.com/TobiasPott) | [__Omair Vaiyani__](https://github.com/omairvaiyani) | [__Antoine Cormouls__](https://github.com/Moumouls)
+| Access: | Android SDK | Android SDK | dotNET SDK | Parse Server | Parse Server, Docs |
+| Focus:  | Android SDK | Android SDK | dotNET SDK | Parse Server | Parse Server |
 
 
 ## Project management committee (PMC)
