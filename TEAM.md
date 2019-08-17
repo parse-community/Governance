@@ -23,6 +23,8 @@ In no particular order 😉
 
 ## Project management committee (PMC)
 
+Of this group Arthur Cinader, Davi Macedo, Diamond Lewis and Tom Fox have ownership access to the Parse Community organisation.
+
 |       | ![Tom Fox](https://avatars0.githubusercontent.com/u/13188249?s=180&v=4) | ![Davi Macedo](https://avatars3.githubusercontent.com/u/4430059?s=180&v=4)  | ![Arthur Cinader](https://avatars2.githubusercontent.com/u/700572?s=180&v=4) | ![Diamond Lewis](https://avatars0.githubusercontent.com/u/9830365?s=180&v=4) | ![Natan Rolnik](https://avatars1.githubusercontent.com/u/1164565?s=180&v=4)
 |-------|:---:|:---:|:---:|:---:|:---:|
 | Name: | [__Tom Fox__](https://github.com/tomwfox) | [__Davi Macedo__](https://github.com/davimacedo) | [__Arthur Cinader__](https://github.com/acinader) | [__Diamond Lewis__](https://github.com/dplewis) | [__Natan Rolnik__](https://github.com/natanrolnik) |
