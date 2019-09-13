@@ -8,18 +8,23 @@ This is not an exclusive group, it merely represents community members who have 
 
 In no particular order 😉
 
-|         | ![Tom Fox](https://avatars0.githubusercontent.com/u/13188249?s=180&v=4) | ![Davi Macedo](https://avatars3.githubusercontent.com/u/4430059?s=180&v=4) | ![Arthur Cinader](https://avatars2.githubusercontent.com/u/700572?s=180&v=4) | ![Diamond Lewis](https://avatars0.githubusercontent.com/u/9830365?s=180&v=4) | ![Douglas Muraoka](https://avatars0.githubusercontent.com/u/8273531?s=180&v=4) | ![Marc Smith](https://avatars0.githubusercontent.com/u/5037688?s=180&v=4) |
-|---------|:---:|:---:|:---:|:---:|:---:|:---:|
-| Name:   | [__Tom Fox__](https://github.com/tomwfox) | [__Davi Macedo__](https://github.com/davimacedo) | [__Arthur Cinader__](https://github.com/acinader) | [__Diamond Lewis__](https://github.com/dplewis) | [__Douglas Muraoka__](https://github.com/douglasmuraoka) | [__Marc Smith__](https://github.com/mrmarcsmith) |
-| Access: | All repos (owner) | All repos (owner) | All repos (owner) | All repos (owner) | Parse Server & Dashboard | iOS Team |
-| Focus:  | Docs, Blog, Website, Governance, iOS SDK | Parse Server | Parse Server, JS SDK, PHP SDK | Parse Server, JS SDK | Parse Server, Dashboard | iOS SDK |
+|         | ![Tom Fox](https://avatars0.githubusercontent.com/u/13188249?s=180&v=4) | ![Davi Macedo](https://avatars3.githubusercontent.com/u/4430059?s=180&v=4) | ![Arthur Cinader](https://avatars2.githubusercontent.com/u/700572?s=180&v=4) | ![Diamond Lewis](https://avatars0.githubusercontent.com/u/9830365?s=180&v=4) | ![Douglas Muraoka](https://avatars0.githubusercontent.com/u/8273531?s=180&v=4) |
+|---------|:---:|:---:|:---:|:---:|:---:|
+| Name:   | [__Tom Fox__](https://github.com/tomwfox) | [__Davi Macedo__](https://github.com/davimacedo) | [__Arthur Cinader__](https://github.com/acinader) | [__Diamond Lewis__](https://github.com/dplewis) | [__Douglas Muraoka__](https://github.com/douglasmuraoka) |
+| Access: | All repos (owner) | All repos (owner) | All repos (owner) | All repos (owner) | Parse Server & Dashboard |
+| Focus:  | Docs, Blog, Website, Governance, iOS SDK | Parse Server | Parse Server, JS SDK, PHP SDK | Parse Server, JS SDK | Parse Server, Dashboard |
 
-|         | ![John Carlson](https://avatars1.githubusercontent.com/u/1459320?s=180&v=4) | ![Roger Hu](https://avatars1.githubusercontent.com/u/326857?s=180&v=4) | ![Tobias](https://avatars3.githubusercontent.com/u/5549565?s=180&v=4) | ![Omair Vaiyani](https://avatars2.githubusercontent.com/u/5912209?s=180&v=4) | ![Antoine Cormouls](https://avatars3.githubusercontent.com/u/27959372?s=180&v=4) | ![Darren Black](https://avatars1.githubusercontent.com/u/845731?s=180&v=4) |
-|---------|:---:|:---:|:---:|:---:|:---:|:---:|
-| Name:   | [__John Carlson__](https://github.com/Jawnnypoo) | [__Roger Hu__](https://github.com/rogerhu) | [__Tobias__](https://github.com/TobiasPott) | [__Omair Vaiyani__](https://github.com/omairvaiyani) | [__Antoine Cormouls__](https://github.com/Moumouls) | [__Darren Black__](https://github.com/drdaz) |
-| Access: | Android SDK | Android SDK | dotNET SDK | Parse Server | Parse Server, Docs | iOS Team |
-| Focus:  | Android SDK | Android SDK | dotNET SDK | Parse Server | Parse Server | iOS SDK |
+|         | ![John Carlson](https://avatars1.githubusercontent.com/u/1459320?s=180&v=4) | ![Roger Hu](https://avatars1.githubusercontent.com/u/326857?s=180&v=4) | ![Tobias](https://avatars3.githubusercontent.com/u/5549565?s=180&v=4) | ![Omair Vaiyani](https://avatars2.githubusercontent.com/u/5912209?s=180&v=4) | ![Antoine Cormouls](https://avatars3.githubusercontent.com/u/27959372?s=180&v=4) |
+|---------|:---:|:---:|:---:|:---:|:---:|
+| Name:   | [__John Carlson__](https://github.com/Jawnnypoo) | [__Roger Hu__](https://github.com/rogerhu) | [__Tobias__](https://github.com/TobiasPott) | [__Omair Vaiyani__](https://github.com/omairvaiyani) | [__Antoine Cormouls__](https://github.com/Moumouls) |
+| Access: | Android SDK | Android SDK | dotNET SDK | Parse Server | Parse Server, Docs |
+| Focus:  | Android SDK | Android SDK | dotNET SDK | Parse Server | Parse Server |
 
+|         | ![Phill Wiggins](https://avatars3.githubusercontent.com/u/7874526?s=400&v=4) | ![Nathan Kellert](https://avatars2.githubusercontent.com/u/3413855?s=400&v=4) | ![Stefan Trauth](https://avatars2.githubusercontent.com/u/144173?s=400&v=4) | ![Darren Black](https://avatars1.githubusercontent.com/u/845731?s=180&v=4) | ![Marc Smith](https://avatars0.githubusercontent.com/u/5037688?s=180&v=4) |
+|---------|:---:|:---:|:---:|:---:|:---:|
+| Name:   | [__Phill Wiggins__](https://github.com/phillwiggins) | [__Nathan Kellert__](https://github.com/noobs2ninjas) | [__Stefan Trauth__](https://github.com/funkenstrahlen) | [__Darren Black__](https://github.com/drdaz) | [__Marc Smith__](https://github.com/mrmarcsmith) |
+| Access: | Flutter SDK | iOS Team | Parse Server Push Adapter | iOS Team | iOS Team |
+| Focus:  | Flutter SDK | iOS SDK, Docs | Parse Server Push Adapter | iOS SDK | iOS SDK |
 
 ## Project management committee (PMC)
 
