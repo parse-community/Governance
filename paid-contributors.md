@@ -17,4 +17,4 @@ Each month the recipient will submit a payment request to our [Open Collective](
 |         | ![Tom Fox](https://avatars0.githubusercontent.com/u/13188249?s=180&v=4) | ![Diamond Lewis](https://avatars0.githubusercontent.com/u/9830365?s=180&v=4) |
 |---------|:---:|:---:|
 | Name:   | [__Tom Fox__](https://github.com/tomwfox) | [__Diamond Lewis__](https://github.com/dplewis) |
-| Monthly stipend (as of June 2019): | $100 | $300 |
+| Monthly stipend (as of October 2019): | $100 | $600 |
