@@ -26,6 +26,12 @@ In no particular order 😉
 | Access: | Flutter SDK | iOS Team | Parse Server Push Adapter | iOS Team | iOS Team |
 | Focus:  | Flutter SDK | iOS SDK, Docs | Parse Server Push Adapter | iOS SDK | iOS SDK |
 
+|         | ![Manuel](https://avatars3.githubusercontent.com/u/5673677?s=400&v=4) | ![SebC](https://avatars1.githubusercontent.com/u/3028067?s=400&v=4) | ![Alex Fanat](https://avatars2.githubusercontent.com/u/16641853?s=400&v=4) |
+|---------|:---:|:---:|:---:|
+| Name:   | [__Manuel__](https://github.com/mtrezza) | [__SebC__](https://github.com/sebc99) | [__Alex Fanat__](https://github.com/TheFanatr) | [____]() | [____]() |
+| Access: | Parse Server, JS, iOS & Android Teams | JS SDK Team | .NET SDK |
+| Focus:  | Parse Server & JS SDK | JS SDK & Parse Server | .NET SDK |
+
 ## Project management committee (PMC)
 
 Of this group Arthur Cinader, Davi Macedo, Diamond Lewis and Tom Fox have ownership access to the Parse Community organisation.
