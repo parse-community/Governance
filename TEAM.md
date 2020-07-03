@@ -29,8 +29,8 @@ In no particular order 😉
 |         | ![Manuel](https://avatars3.githubusercontent.com/u/5673677?s=400&v=4) | ![SebC](https://avatars1.githubusercontent.com/u/3028067?s=400&v=4) | ![Alex Fanat](https://avatars2.githubusercontent.com/u/16641853?s=400&v=4) |
 |---------|:---:|:---:|:---:|
 | Name:   | [__Manuel__](https://github.com/mtrezza) | [__SebC__](https://github.com/sebc99) | [__Alex Fanat__](https://github.com/TheFanatr) | [____]() | [____]() |
-| Access: | Parse Server & Android Teams | JS SDK Team | .NET SDK |
-| Focus:  | Parse Server & Android SDK | JS SDK | .NET SDK |
+| Access: | Parse Server, JS, iOS & Android Teams | JS SDK Team | .NET SDK |
+| Focus:  | Parse Server & JS SDK | JS SDK & Parse Server | .NET SDK |
 
 ## Project management committee (PMC)
 
