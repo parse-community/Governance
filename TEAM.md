@@ -26,11 +26,11 @@ In no particular order 😉
 | Access: | Flutter SDK | iOS Team | Parse Server Push Adapter | iOS Team | iOS Team |
 | Focus:  | Flutter SDK | iOS SDK, Docs | Parse Server Push Adapter | iOS SDK | iOS SDK |
 
-|         | ![Manuel](https://avatars3.githubusercontent.com/u/5673677?s=400&v=4) | ![SebC](https://avatars1.githubusercontent.com/u/3028067?s=400&v=4) | ![Alex Fanat](https://avatars2.githubusercontent.com/u/16641853?s=400&v=4) |
-|---------|:---:|:---:|:---:|
-| Name:   | [__Manuel__](https://github.com/mtrezza) | [__SebC__](https://github.com/sebc99) | [__Alex Fanat__](https://github.com/TheFanatr) | [____]() | [____]() |
-| Access: | Parse Server, JS, iOS & Android Teams | JS SDK Team | .NET SDK |
-| Focus:  | Parse Server & JS SDK | JS SDK & Parse Server | .NET SDK |
+|         | ![Manuel](https://avatars3.githubusercontent.com/u/5673677?s=400&v=4) | ![SebC](https://avatars1.githubusercontent.com/u/3028067?s=400&v=4) | ![Alex Fanat](https://avatars2.githubusercontent.com/u/16641853?s=400&v=4) | ![Corey Baker](https://avatars2.githubusercontent.com/u/8621344?s=400&u=9cf96822750f92aa32b3edf99514ffd1d3e6412a&v=4)
+|---------|:---:|:---:|:---:|:---:|
+| Name:   | [__Manuel__](https://github.com/mtrezza) | [__SebC__](https://github.com/sebc99) | [__Alex Fanat__](https://github.com/TheFanatr) | [__Corey Baker__](https://github.com/cbaker6) | [____]() |
+| Access: | Parse Server, JS, iOS & Android Teams | JS SDK Team | .NET SDK | Swift SDK Team |
+| Focus:  | Parse Server & JS SDK | JS SDK & Parse Server | .NET SDK | Parse Swift |
 
 ## Project management committee (PMC)
 
