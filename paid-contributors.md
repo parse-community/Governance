@@ -2,7 +2,7 @@
 
 ## Overview
 
-In an effort to ensure the continuous development of Parse Platform, contributors can receive a financial compensation for their contribution. The participation under the program is always clearly defined in scope, budget and time before the approval of participation.
+In an effort to ensure the continuous technical and organizational development of Parse Platform, contributors can receive a financial compensation for their contribution. The participation under the program is always clearly defined in scope, budget and time before the approval of participation.
 
 ## Process
 
