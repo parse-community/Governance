@@ -1,6 +1,6 @@
 # Team <!-- omit in toc -->
 
-The current members of Parse Platform are listed below in alphabetical order. See the [Governance](GOVERNANCE.md) for details on the meanings of the roles.
+The current members of Parse Platform are listed below in alphabetical order. See the [Governance](README.md) for details on the meanings of the roles.
 
 - [Project Management Committee Chair (PMCC)](#project-management-committee-chair-pmcc)
 - [Project Management Committee (PMC)](#project-management-committee-pmc)
@@ -15,12 +15,12 @@ To be appointed...
 
 # Project Management Committee (PMC)
 
-|                                                                                           | Name                                         | Role | Joined | Focus                         |
-|-------------------------------------------------------------------------------------------|----------------------------------------------|------|--------|-------------------------------|
-| <img src="https://avatars.githubusercontent.com/u/4430059?v=4" width="80" height="80" />  | [Davi Macedo](https://github.com/davimacedo) | PMC  | -      | Parse Dashboard               |
-| <img src="https://avatars.githubusercontent.com/u/9830365?v=4" width="80" height="80" />  | [Diamond Lewis](https://github.com/dplewis)  | PMC  | -      | Parse JS SDK                  |
-| <img src="https://avatars.githubusercontent.com/u/5673677?v=4" width="80" height="80" />  | [Manuel](https://github.com/mtrezza)         | PMC  | 2020   | Parse Server, Parse Dashboard |
-| <img src="https://avatars.githubusercontent.com/u/13188249?v=4" width="80" height="80" /> | [Tom Fox](https://github.com/tomwfox)        | PMC  | -      | Docs, Governance              |
+|                                                                                           | Name                                         | Role | Joined | Focus |
+|-------------------------------------------------------------------------------------------|----------------------------------------------|------|--------|-------|
+| <img src="https://avatars.githubusercontent.com/u/4430059?v=4" width="80" height="80" />  | [Davi Macedo](https://github.com/davimacedo) | PMC  | -      | -     |
+| <img src="https://avatars.githubusercontent.com/u/9830365?v=4" width="80" height="80" />  | [Diamond Lewis](https://github.com/dplewis)  | PMC  | -      | -     |
+| <img src="https://avatars.githubusercontent.com/u/5673677?v=4" width="80" height="80" />  | [Manuel](https://github.com/mtrezza)         | PMC  | 2020   | -     |
+| <img src="https://avatars.githubusercontent.com/u/13188249?v=4" width="80" height="80" /> | [Tom Fox](https://github.com/tomwfox)        | PMC  | -      | -     |
 
 # Contributors
 
