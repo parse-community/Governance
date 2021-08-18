@@ -26,11 +26,28 @@ To be appointed...
 
 Contributors are selected by the Project Management Committee based on their engagement and contribution in the community.
 
-|                                                                                           | Name                                         | Role        | Joined | Focus           |
-|-------------------------------------------------------------------------------------------|----------------------------------------------|-------------|--------|-----------------|
-| <img src="https://avatars.githubusercontent.com/u/23558802?v=4" width="80" height="80" /> | [fn-faisal](https://github.com/fn-faisal)    | Contributor | 2021   | Parse Dashboard |
-| <img src="https://avatars.githubusercontent.com/u/44117648?v=4" width="80" height="80" /> | [Prerna Mehra](https://github.com/sadakchap) | Contributor | 2021   | Parse Dashboard |
-| <img src="https://avatars.githubusercontent.com/u/8621344?v=4" width="80" height="80" />  | [Corey Baker](https://github.com/cbaker6)    | Contributor | -      | Parse Swift SDK |
+|                                                                                           | Name                                                           | Role        | Joined | Focus                |
+|-------------------------------------------------------------------------------------------|----------------------------------------------------------------|-------------|--------|----------------------|
+| <img src="https://avatars.githubusercontent.com/u/16641853?v=4" width="80" height="80" /> | [Alex Fanat](https://github.com/TheFanatr)                     | Contributor | -      | Parse .NET SDK       |
+| <img src="https://avatars.githubusercontent.com/u/27959372?v=4" width="80" height="80" /> | [Antoine Cormouls](https://github.com/Moumouls)                | Contributor | -      | Parse Server         |
+| <img src="https://avatars.githubusercontent.com/u/8621344?v=4" width="80" height="80" />  | [Corey Baker](https://github.com/cbaker6)                      | Contributor | -      | Parse Swift SDK      |
+| <img src="https://avatars.githubusercontent.com/u/845731?v=4" width="80" height="80" />   | [Darren Black](https://github.com/drdaz)                       | Contributor | -      | Parse iOS SDK        |
+| <img src="https://avatars.githubusercontent.com/u/4974769?v=4" width="80" height="80" />  | [dblythy](https://github.com/dblythy)                          | Contributor | -      | Parse Server         |
+| <img src="https://avatars.githubusercontent.com/u/23558802?v=4" width="80" height="80" /> | [fn-faisal](https://github.com/fn-faisal)                      | Contributor | 2021   | Parse Dashboard      |
+| <img src="https://avatars.githubusercontent.com/u/1459320?v=4" width="80" height="80" />  | [John Carlson](https://github.com/Jawnnypoo)                   | Contributor | -      | Parse Android SDK    |
+| <img src="https://avatars.githubusercontent.com/u/5037688?v=4" width="80" height="80" />  | [Marc Smith](https://github.com/mrmarcsmith)                   | Contributor | -      | Parse iOS SDK        |
+| <img src="https://avatars.githubusercontent.com/u/45403027?v=4" width="80" height="80" /> | [Maximilian Fischer](https://github.com/fischerscode)          | Contributor | -      | Parse Flutter SDK    |
+| <img src="https://avatars.githubusercontent.com/u/3413855?v=4" width="80" height="80" />  | [Nathan Kellert](https://github.com/noobs2ninjas)              | Contributor | -      | Parse iOS SDK        |
+| <img src="https://avatars.githubusercontent.com/u/5912209?v=4" width="80" height="80" />  | [Omair Vaiyani](https://github.com/omairvaiyani)               | Contributor | -      | Parse Server         |
+| <img src="https://avatars.githubusercontent.com/u/7874526?v=4" width="80" height="80" />  | [Phill Wiggins](https://github.com/phillwiggins)               | Contributor | -      | Parse Flutter SDK    |
+| <img src="https://avatars.githubusercontent.com/u/44117648?v=4" width="80" height="80" /> | [Prerna Mehra](https://github.com/sadakchap)                   | Contributor | 2021   | Parse Dashboard      |
+| <img src="https://avatars.githubusercontent.com/u/17687286?v=4" width="80" height="80" /> | [Rodrigo de Souza Marques](https://github.com/RodrigoSMarques) | Contributor | -      | Parse Flutter SDK    |
+| <img src="https://avatars.githubusercontent.com/u/326857?v=4" width="80" height="80" />   | [Roger Hu](https://github.com/rogerhu)                         | Contributor | -      | Parse Android SDK    |
+| <img src="https://avatars.githubusercontent.com/u/3028067?v=4" width="80" height="80" />  | [SebC.](https://github.com/SebC99)                             | Contributor | -      | Parse Javascript SDK |
+| <img src="https://avatars.githubusercontent.com/u/144173?v=4" width="80" height="80" />   | [Stefan Trauth](https://github.com/funkenstrahlen)             | Contributor | -      | Parse Server         |
+| <img src="https://avatars.githubusercontent.com/u/5549565?v=4" width="80" height="80" />  | [Tobias](https://github.com/TobiasPott)                        | Contributor | -      | Parse .NET SDK       |
+| <img src="https://avatars.githubusercontent.com/u/1904430?v=4" width="80" height="80" />  | [Tyson Andre](https://github.com/TysonAndre)                   | Contributor | -      | Node APN             |
+| <img src="https://avatars.githubusercontent.com/u/5108906?v=4" width="80" height="80" />  | [Vitaly Tomilov](https://github.com/vitaly-t)                  | Contributor | -      | Parse Server         |
 
 # Alumni
 
