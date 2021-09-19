@@ -2,10 +2,15 @@
 
 The current members of Parse Platform are listed below in alphabetical order. See the [Governance](README.md) for details on the meanings of the roles.
 
+- [Project Management Committee Chair (PMCC)](#project-management-committee-chair-pmcc)
 - [Project Management Committee (PMC)](#project-management-committee-pmc)
 - [Contributors](#contributors)
   - [Permissions](#permissions)
   - [Removal](#removal)
+
+# Project Management Committee Chair (PMCC)
+
+To be appointed...
 
 # Project Management Committee (PMC)
 
