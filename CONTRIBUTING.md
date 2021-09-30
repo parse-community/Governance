@@ -29,3 +29,7 @@ We want to make contributing a stress and hassle free experience but due to this
 [stack-overflow-tag]: https://stackoverflow.com/questions/tagged/parse-platform
 [security-policy]: https://github.com/parse-community/.github/blob/master/SECURITY.md
 [code-of-conduct]: https://github.com/parse-community/.github/blob/master/CODE_OF_CONDUCT.md
+
+## Compensation
+
+Contributors can receive financial compensation for their contribution under the [Paid Contributors Program](paid-contributors.md) and [Parse Bounty Program](BOUNTY.md).
