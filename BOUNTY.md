@@ -10,11 +10,10 @@ An open issue can have a bounty assigned to it, for which the contributor(s) can
 2. The contributor submits a pull request
 3. A reviewer gives feedback and the contributor resolves any corrections
 4. A reviewer merges the pull request
-5. The contributor submits an [expense claim](https://opencollective.com/parse-server/expenses/new) via the Open Collective, using a provided bounty request form that includes:
+5. The contributor submits an [expense claim](https://opencollective.com/parse-server/expenses/new) via the Open Collective that includes:
    - GitHub user ID
-   - IDs of the fixed issues
-   - IDs of the merged pull requests
-6. The contributor receives a form copy to their GitHub email address for confirmation
+   - URL to the merged pull request(s)
+6. A reviewer asks the contributor on GitHub to confirm that they submitted the claim
 7. The contributor confirms the correctness of the claim
 8. The PMC approves the payout
 9. The Open Collective processes the payout
