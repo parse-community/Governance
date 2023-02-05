@@ -17,7 +17,6 @@ To be appointed...
 |                                                                                          | Name                                         | Role |
 |------------------------------------------------------------------------------------------|----------------------------------------------|------|
 | <img src="https://avatars.githubusercontent.com/u/4430059?v=4" width="80" height="80" /> | [Davi Macedo](https://github.com/davimacedo) | PMC  |
-| <img src="https://avatars.githubusercontent.com/u/9830365?v=4" width="80" height="80" /> | [Diamond Lewis](https://github.com/dplewis)  | PMC  |
 | <img src="https://avatars.githubusercontent.com/u/5673677?v=4" width="80" height="80" /> | [Manuel Trezza](https://github.com/mtrezza)  | PMC  |
 
 # Contributors
