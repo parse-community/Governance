@@ -35,3 +35,22 @@ If multiple contributors work as a team on the same issue or pull request in a s
 If multiple contributors work on the same issue but different pull requests in a non-coordinated manner, and they all claim the same bounty, the bounty will be awarded to the contributor whose pull request has been merged. The decision which pull request to merge will be determined by time, completeness and code quality. We want to avoid such race scenarios where contributors do not get compensated for their effort, and more importantly, their effort was in vain while it could have been invested into other open issues. Therefore we strongly encourage contributors to coordinate and distribute issues among themselves.
 
 The compensation is provided by Parse Platform as a voluntary token of gratitude. Receiving compensation on an irregular or regular basis shall not establish or constitute any form of a financially compensated relationship of employment between Parse Platform and the contributor. Contributing under the program does not give the contributor any rights to compensation. Even if a bounty label is applied to an issue, Parse Platform may refuse to compensate the contributor if it deems necessary to do so, for example if a label has been applied by mistake, or the bounty value has been set incorrectly by mistake, or in unforeseen circumstances to maintain the financial integrity of Parse Platform.
+
+## Sponsored Bounty
+
+A bounty can be sponsored by a 3rd party who provides the funding for the development of a specific feature or bug fix. The funding is provided in the form of a donation to the Parse Platform Open Collective. After the donation, the bounty will be assigned to the specific GitHub issue for at least 3 months. The bounty amount can be increased over time if necessary to attract more attention, but it cannot be decreased. When increasing the bounty amount, the time period resets and restarts from the time of the additional donation. After the time period, the bounty may be removed from the GitHub issue and the donation becomes a general donation to Parse Platform. Donations are non-refundable, also in case the issue is not picked up by any developer.
+
+Parse Platform does not manage the development of a sponsored bounty, it only provides the forum to advertise the sponsorship. It is up to the sponsor to pick the developer(s) it wants to work with and how to divide the bounty among the developers in case multiples developers are chosen. Parse Platform does not assume any responsibility for scope, quality, time or viability of the developed work. Parse Platform will review and steer the development as it deems necessary to ensure that the final development result is fit for merging into the open source code base. The work created during a sponsored development is an open source contribution under the license of the respective GitHub repository.
+
+A sponsored bounty comes with additional services depending on the bounty amount. The following table shows the available amounts for sponsored bounties, the required donation and the services provided.
+
+| Bounty    | Donation         | GitHub Tag <sup>(1)</sup> | Release Note <sup>(2)</sup> | Social Media Post <sup>(3)</sup> |
+|-----------|------------------|---------------------------|-----------------------------|----------------------------------|
+| 100 USD   | 150 USD (+50%)   | ✅                         | ✅                           | ✖️                               |
+| 250 USD   | 375 USD (+50%)   | ✅                         | ✅                           | ✖️                               |
+| 500 USD   | 700 USD (+40%)   | ✅                         | ✅                           | ✅                                |
+| 750 USD   | 975 USD (+30%)   | ✅                         | ✅                           | ✅                                |
+| 1,000 USD | 1,250 USD (+25%) | ✅                         | ✅                           | ✅                                |
+| 2,000 USD | 2,400 USD (+20%) | ✅                         | ✅                           | ✅                                |
+
+<sup>(1)</sup> A sponsorship tag will be added to the GitHub issue to advertise the bounty to developers. <sup>(2)</sup> The release notes entry will contain a sponsorship note. <sup>(3)</sup> The sponsorship will be advertised on our social media to attract more developers.
