@@ -46,7 +46,7 @@ A sponsored bounty comes with additional services depending on the bounty amount
 
 | Bounty    | Donation         | GitHub Tag <sup>(1)</sup> | Release Note <sup>(2)</sup> | Social Media Post <sup>(3)</sup> |
 |-----------|------------------|---------------------------|-----------------------------|----------------------------------|
-| 100 USD   | 150 USD (+50%)   | ✅                         | ✅                           | ✖️                               |
+| 100 USD   | 150 USD (+50%)   | ✅                         | ✖️                           | ✖️                               |
 | 250 USD   | 375 USD (+50%)   | ✅                         | ✅                           | ✖️                               |
 | 500 USD   | 700 USD (+40%)   | ✅                         | ✅                           | ✅                                |
 | 750 USD   | 975 USD (+30%)   | ✅                         | ✅                           | ✅                                |
