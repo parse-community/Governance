@@ -12,8 +12,9 @@ An open issue can have a bounty assigned to it, for which the contributor(s) can
 4. A reviewer merges the pull request
 5. The contributor submits an [expense claim](https://opencollective.com/parse-server/expenses/new) via the Open Collective that includes:
    - GitHub user ID
-   - URL to the merged pull request(s)
-6. A reviewer asks the contributor on GitHub to confirm that they submitted the claim
+   - URL to the closed GitHub issue
+   - URL to the merged GitHub pull request
+6. A reviewer asks the contributor on GitHub to confirm that they submitted the claim to link the OC user to the GitHub user
 7. The contributor confirms the correctness of the claim
 8. The PMC approves the payout
 9. The Open Collective processes the payout
@@ -28,7 +29,7 @@ The contributor must have an email address published in their GitHub profile, wh
 
 The contributor has 90 days to request compensation for a bounty and provide all required information. After 90 days the contributor forfeits the bounty. A contributor cannot submit more than one bounty request form per calendar month, they may however correct the form after submission and before the PMC approves the payout.
 
-The decision to assign a bounty to an issue or revoke a bounty from an issue is made by the Project Management Committee. If a bounty is revoked, while a contributor has been actively working on a pull request, the PMC may decide to compensate the contributor not for the full bounty but an aliquot portion of the bounty according to the code committed to the pull request on GitHub at the time the bounty is revoked.
+The decision to assign a bounty to an issue or revoke a bounty from an issue is made by the Project Management Committee (PMC). If a bounty is revoked, while a contributor has been actively working on a pull request, the PMC may decide to compensate the contributor not for the full bounty but an aliquot portion of the bounty according to the code committed to the pull request on GitHub at the time the bounty is revoked.
 
 If multiple contributors work as a team on the same issue or pull request in a self-coordinated manner, we expect the contributors to decide for themselves how to split the bounty among them. If the team cannot resolve the issue, the Project Management Committee will make a decision on how to split the bounty among team members, based on their best judgement from code and comments of the contribution concerned.
 
