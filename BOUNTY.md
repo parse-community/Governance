@@ -12,8 +12,8 @@ An open issue can have a bounty assigned to it, for which the contributor(s) can
 4. A reviewer merges the pull request
 5. The contributor submits an [expense claim](https://opencollective.com/parse-server/expenses/new) via the Open Collective that includes:
    - GitHub user ID
-   - URL to the closed GitHub issue
-   - URL to the merged GitHub pull request
+   - URL to the closed GitHub issue(s)
+   - URL to the merged GitHub pull request(s)
 6. A reviewer asks the contributor on GitHub to confirm that they submitted the claim to link the OC user to the GitHub user
 7. The contributor confirms the correctness of the claim
 8. The PMC approves the payout
