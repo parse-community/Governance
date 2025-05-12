@@ -6,20 +6,23 @@ An open issue can have a bounty assigned to it, for which the contributor(s) can
 
 ## Process
 
-1. A contributor picks an issue with a bounty
-2. The contributor submits a pull request
-3. A reviewer gives feedback and the contributor resolves any corrections
-4. A reviewer merges the pull request
-5. The contributor submits an [expense claim](https://opencollective.com/parse-server/expenses/new) via the Open Collective that includes:
+1. A contributor identifies an issue with a bounty
+2. The contributor researches whether the issue is still current.
+3. The contributor submits a pull request
+4. A reviewer gives feedback and the contributor resolves any corrections
+5. A reviewer merges the pull request
+6. The contributor submits an [expense claim](https://opencollective.com/parse-server/expenses/new) via the Open Collective that includes:
    - GitHub user ID
    - URL to the closed GitHub issue(s)
    - URL to the merged GitHub pull request(s)
-6. A reviewer asks the contributor on GitHub to confirm that they submitted the claim to link the OC user to the GitHub user
-7. The contributor confirms the correctness of the claim
-8. The PMC approves the payout
-9. The Open Collective processes the payout
+7. A reviewer asks the contributor on GitHub to confirm that they submitted the claim to link the OC user to the GitHub user
+8. The contributor confirms the correctness of the claim
+9. The PMC approves the payout
+10. The Open Collective processes the payout
 
 When working on an issue, the contributor is encouraged to post an issue comment to signal to other contributors that they are working on it. This is not binding for other contributors, and they may also start to work on the issue, but it should help to prevent multiple contributors from working on the same issue without coordinating.
+
+The contributor must reserach whether the issue is still current and has not become partly or entirely obsolete due to ongoing development. An issue may be posted erroneously, for example a feature request for a feature that already exists. It is recommended to research in code, issues, pull requests, and documentation including the README of the respective repository.
 
 A contributor is not required to request a bounty when fixing an issue that has a bounty assigned to it. By not claiming the bounty, the contributor effectively re-donates the bounty to the community funds.
 
